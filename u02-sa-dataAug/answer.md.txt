@@ -1,0 +1,1 @@
+Data augmentation allows for an already existing dataset to be expanded and simultaneously allows for greater variety. Both of which reduce overfitting.
